@@ -99,7 +99,7 @@
          ]
       },
       {
-         "payment_method":"Google Wallet",
+         "payment_method":"Amar Pay",
          "payment_logo":"https://w7.pngwing.com/pngs/990/1023/png-transparent-google-pay-send-android-apple-wallet-google-play-icon-size-google-wallet-logo-miscellaneous-angle-text.png",
          "payment_url":"https://elivehive.com/lumen/public/payment/startAamarPay?",
           "hivesData":[
