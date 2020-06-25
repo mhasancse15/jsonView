@@ -147,51 +147,6 @@
       "bonus": 0,
       "package_price": 3000,
       "product_identifier": "com.gold.pack3"
-    },
-    {
-      "package_id": 6,
-      "package_name": "Gold",
-      "no_of_coins": 27600,
-      "points": 10000,
-      "bonus": 0,
-      "package_price": 5000,
-      "product_identifier": "com.gold.pack4"
-    },
-    {
-      "package_id": 7,
-      "package_name": "Gold",
-      "no_of_coins": 55200,
-      "points": 20000,
-      "bonus": 0,
-      "package_price": 10000,
-      "product_identifier": "com.gold.pack5"
-    },
-    {
-      "package_id": 8,
-      "package_name": "Gold",
-      "no_of_coins": 138000,
-      "points": 75000,
-      "bonus": 0,
-      "package_price": 25000,
-      "product_identifier": "com.gold.pack6"
-    },
-    {
-      "package_id": 9,
-      "package_name": "Gold",
-      "no_of_coins": 276000,
-      "points": 150000,
-      "bonus": 0,
-      "package_price": 50000,
-      "product_identifier": "com.gold.pack7"
-    },
-    {
-      "package_id": 10,
-      "package_name": "Gold",
-      "no_of_coins": 560000,
-      "points": 300000,
-      "bonus": 0,
-      "package_price": 100000,
-      "product_identifier": "com.gold.pack8"
     }
          ]
       }
