@@ -1,0 +1,160 @@
+{
+   "status":true,
+   "payment_list":[
+      {
+         "payment_method":"Google Wallet",
+         "payment_logo":"https://w7.pngwing.com/pngs/990/1023/png-transparent-google-pay-send-android-apple-wallet-google-play-icon-size-google-wallet-logo-miscellaneous-angle-text.png",
+         "payment_url":"https://apprise.website/hive-api/public/api/payment/startAamarPay?",
+          "hivesData":[
+           {
+      "package_id": 13,
+      "package_name": "Silver",
+      "no_of_coins": 252,
+      "points": 100,
+      "bonus": 150,
+      "package_price": 50,
+      "product_identifier": "com.silver.pack11"
+    },
+    {
+      "package_id": 2,
+      "package_name": "Gold",
+      "no_of_coins": 552,
+      "points": 200,
+      "bonus": 0,
+      "package_price": 100,
+      "product_identifier": "com.gold.pack"
+    },
+    {
+      "package_id": 3,
+      "package_name": "Gold",
+      "no_of_coins": 2760,
+      "points": 1000,
+      "bonus": 1000,
+      "package_price": 500,
+      "product_identifier": "com.gold.pack1"
+    },
+    {
+      "package_id": 4,
+      "package_name": "Gold",
+      "no_of_coins": 5520,
+      "points": 2000,
+      "bonus": 0,
+      "package_price": 1000,
+      "product_identifier": "com.gold.pack2"
+    },
+    {
+      "package_id": 5,
+      "package_name": "Gold",
+      "no_of_coins": 16560,
+      "points": 6000,
+      "bonus": 0,
+      "package_price": 3000,
+      "product_identifier": "com.gold.pack3"
+    },
+    {
+      "package_id": 6,
+      "package_name": "Gold",
+      "no_of_coins": 27600,
+      "points": 10000,
+      "bonus": 0,
+      "package_price": 5000,
+      "product_identifier": "com.gold.pack4"
+    },
+    {
+      "package_id": 7,
+      "package_name": "Gold",
+      "no_of_coins": 55200,
+      "points": 20000,
+      "bonus": 0,
+      "package_price": 10000,
+      "product_identifier": "com.gold.pack5"
+    },
+    {
+      "package_id": 8,
+      "package_name": "Gold",
+      "no_of_coins": 138000,
+      "points": 75000,
+      "bonus": 0,
+      "package_price": 25000,
+      "product_identifier": "com.gold.pack6"
+    },
+    {
+      "package_id": 9,
+      "package_name": "Gold",
+      "no_of_coins": 276000,
+      "points": 150000,
+      "bonus": 0,
+      "package_price": 50000,
+      "product_identifier": "com.gold.pack7"
+    },
+    {
+      "package_id": 10,
+      "package_name": "Gold",
+      "no_of_coins": 560000,
+      "points": 300000,
+      "bonus": 0,
+      "package_price": 100000,
+      "product_identifier": "com.gold.pack8"
+    }
+         ]
+      },
+      {
+         "payment_method":"Amar Pay",
+         "payment_logo":"https://w7.pngwing.com/pngs/990/1023/png-transparent-google-pay-send-android-apple-wallet-google-play-icon-size-google-wallet-logo-miscellaneous-angle-text.png",
+         "payment_url":"https://apprise.website/hive-api/public/api/payment/startAamarPay?",
+          "hivesData":[
+          {
+      "package_id": 13,
+      "package_name": "Silver",
+      "no_of_coins": 252,
+      "points": 100,
+      "bonus": 150,
+      "package_price": 50,
+      "product_identifier": "com.silver.pack11"
+    },
+    {
+      "package_id": 2,
+      "package_name": "Gold",
+      "no_of_coins": 552,
+      "points": 200,
+      "bonus": 0,
+      "package_price": 100,
+      "product_identifier": "com.gold.pack"
+    },
+    {
+      "package_id": 3,
+      "package_name": "Gold",
+      "no_of_coins": 2760,
+      "points": 1000,
+      "bonus": 1000,
+      "package_price": 500,
+      "product_identifier": "com.gold.pack1"
+    },
+    {
+      "package_id": 4,
+      "package_name": "Gold",
+      "no_of_coins": 5520,
+      "points": 2000,
+      "bonus": 0,
+      "package_price": 1000,
+      "product_identifier": "com.gold.pack2"
+    },
+    {
+      "package_id": 5,
+      "package_name": "Gold",
+      "no_of_coins": 16560,
+      "points": 6000,
+      "bonus": 0,
+      "package_price": 3000,
+      "product_identifier": "com.gold.pack3"
+    }
+         ]
+      }
+   ],
+  "total": 10,
+  "page_no": "1",
+  "coin_count": "1090",
+  "gift_count": "5",
+  "wallet_coin_count": 19573212
+   
+}
