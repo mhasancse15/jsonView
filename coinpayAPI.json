@@ -4,7 +4,7 @@
       {
          "payment_method":"Google Wallet",
          "payment_logo":"https://w7.pngwing.com/pngs/990/1023/png-transparent-google-pay-send-android-apple-wallet-google-play-icon-size-google-wallet-logo-miscellaneous-angle-text.png",
-         "payment_url":"https://elivehive.com/lumen/public/payment/startAamarPay?",
+         "payment_url":"https://apprise.website/hive-api/public/api/payment/startAamarPay?",
           "hivesData":[
            {
       "package_id": 13,
@@ -101,7 +101,7 @@
       {
          "payment_method":"Amar Pay",
          "payment_logo":"https://w7.pngwing.com/pngs/990/1023/png-transparent-google-pay-send-android-apple-wallet-google-play-icon-size-google-wallet-logo-miscellaneous-angle-text.png",
-         "payment_url":"https://elivehive.com/lumen/public/payment/startAamarPay?",
+         "payment_url":"https://apprise.website/hive-api/public/api/payment/startAamarPay?",
           "hivesData":[
           {
       "package_id": 13,
