@@ -1,0 +1,554 @@
+{
+  "-LLei6cjWU7Jjze0uLhT" : {
+    "ans" : "ক্ষুধ্ + পিপাসা",
+    "mcq1" : " ক্ষুৎ + পিপাসা",
+    "mcq2" : "ক্ষুধা + পিপাসা",
+    "mcq3" : "  কোনটিই নয়",
+    "mcq4" : "ক্ষুধ্ + পিপাসা",
+    "question" : "1. সন্ধি বিচ্ছেদ করুন - \" ক্ষুৎপিপাসা \""
+  },
+  "-LLeiNEeMWdOm0vChmzx" : {
+    "ans" : "গৃহী",
+    "mcq1" : "সন্ন্যাস",
+    "mcq2" : "গৃহী",
+    "mcq3" : "গৃহি",
+    "mcq4" : "কোনটিই নয়",
+    "question" : "2. সন্ন্যাসী এর বিপরীত শব্দ কোনটি?"
+  },
+  "-LLeiTJadmmyp6HOmgLV" : {
+    "ans" : "বুদ্ধিজীবী",
+    "mcq1" : "বুদ্ধিজীবি",
+    "mcq2" : " বুদ্ধিজিবী",
+    "mcq3" : "বুদ্ধিজিবি",
+    "mcq4" : "বুদ্ধিজীবী",
+    "question" : "3. নিচের শুদ্ধ বানানটি নির্দেশ করুন"
+  },
+  "-LLeiaqpepfdcDMuY0KL" : {
+    "ans" : "ঔ",
+    "mcq1" : "আ",
+    "mcq2" : "ঔ",
+    "mcq3" : "উ",
+    "mcq4" : "ঊ",
+    "question" : "4. নিচের কোনটি যৌগিক স্বরধ্বনির চিহ্ন?"
+  },
+  "-LLeihkBBCybznwMxmL1" : {
+    "ans" : "বেতার",
+    "mcq1" : "বিড়ালচোখী",
+    "mcq2" : "মেনিমুখো",
+    "mcq3" : "হাতেখড়ি",
+    "mcq4" : "বেতার",
+    "question" : "5. নিচের কোনটি মধ্যপদলোপী বহুব্রীহি সমাসের উদাহারণ নয়?"
+  },
+  "-LLeip3rEPi91RDCu3w9" : {
+    "ans" : "  চির অশান্তি",
+    "mcq1" : " উভয় সংকট",
+    "mcq2" : " শেষ বিদায়",
+    "mcq3" : "  চূড়ান্ত অশান্তি",
+    "mcq4" : "  চির অশান্তি",
+    "question" : "6. রাবণের চিতা বাগধারাটির অর্থ কী ?"
+  },
+  "-LLeiwQ90z-YoSg4LdWB" : {
+    "ans" : "গাল",
+    "mcq1" : "ভাগ্য",
+    "mcq2" : "গাল",
+    "mcq3" : "ললাট",
+    "mcq4" : "কপাল",
+    "question" : "7. কপোল এর প্রতিশব্দ কী?"
+  },
+  "-LLej4dKpX4QeErnPdE7" : {
+    "ans" : "পুরোঘটিত বর্তমান",
+    "mcq1" : "সাধারণ অতীত",
+    "mcq2" : "নিত্যবৃত্ত অতীত",
+    "mcq3" : "ঘটমান বর্তমান",
+    "mcq4" : "পুরোঘটিত বর্তমান",
+    "question" : "8. এবার আমি পরীক্ষায় উত্তীর্ণ হয়েছি - বাক্যটি কোন কালের ?"
+  },
+  "-LLejD2UcEZ9ee2KJNfP" : {
+    "ans" : "কর্মকারকে শুন্য বিভক্তি",
+    "mcq1" : "কর্মকারকে শুন্য বিভক্তি",
+    "mcq2" : " কর্মকারকে সপ্তমী বিভক্তি",
+    "mcq3" : " অপাদান কারকে তৃতীয়া বিভক্তি",
+    "mcq4" : " কতৃকারকে শূন্য বিভক্তি",
+    "question" : "9. ডাক্তার ডাক - বাক্যটিতে ' ডাক্তার ' শব্দটি কোন কারকে কোন বিভক্তি?"
+  },
+  "-LLejImixtFcBZc1-ZBg" : {
+    "ans" : "দেদীপ্যমান",
+    "mcq1" : " আলোকিত",
+    "mcq2" : "দেদীপ্যমান",
+    "mcq3" : " দীপ্তিমান",
+    "mcq4" : "উজ্জ্বল",
+    "question" : "10. ' যা দীপ্তি পাচ্ছে ' এক কথায় প্রকাশ করুন"
+  },
+  "-LLejQu3s2QsU7_Ri0sw" : {
+    "ans" : "   জীবনানন্দ দাস",
+    "mcq1" : "জসিমউদ্দিন",
+    "mcq2" : "   জীবনানন্দ দাস",
+    "mcq3" : "  রবীন্দ্রনাথ ঠাকুর",
+    "mcq4" : " সত্যেন্দ্রনাথ দত্ত",
+    "question" : "11. বাংলার মুখ আমি দেখিয়াছি, পৃথিবীর মুখ দেখিতে চাই না আর - কার লেখা?"
+  },
+  "-LLejql4At0AWyQeSwEq" : {
+    "ans" : "সুকান্ত ভট্টাচার্য",
+    "mcq1" : "সুকান্ত ভট্টাচার্য",
+    "mcq2" : "কাজী নজরুল ইসলাম",
+    "mcq3" : " সৈয়দ শামসুল হক",
+    "mcq4" : " জীবনানন্দ দাস",
+    "question" : "12. \" এই বিশ্বকে এ শিশুর বাসযোগ্য করে যাব আমি \" এর রচয়িতা কে?"
+  },
+  "-LLejxvi_NSfPXiFnwcJ" : {
+    "ans" : "সব্যসাচী",
+    "mcq1" : " সমান তালী",
+    "mcq2" : " সব্যচাষি",
+    "mcq3" : "সব্যসাচী",
+    "mcq4" : " দু ' হাতি",
+    "question" : "13. ' যার দুই হাত সমান চলে ' এক কথায় কি বলে?"
+  },
+  "-LLek3nWLVG24QeFsHa0" : {
+    "ans" : "কথা + ছলে",
+    "mcq1" : " কথা + চ্ছল",
+    "mcq2" : "কথা + ছলে",
+    "mcq3" : " কোনটিই নয়",
+    "mcq4" : " কথা + চ্ছলে",
+    "question" : "14. সন্ধি বিচ্ছেদ করুন - কথাচ্ছলে"
+  },
+  "-LLekCa6x1-dyI6-tvIq" : {
+    "ans" : "দাড়ি",
+    "mcq1" : "ড্যাস",
+    "mcq2" : "হাইফেন",
+    "mcq3" : "সেমিকোলন",
+    "mcq4" : "দাড়ি",
+    "question" : "15. চারটি বিরাম চিহ্নের মধ্যে পূর্ণচ্ছেদ কোনটি?"
+  },
+  "-LLekg4XVK0I2Ys37aNi" : {
+    "ans" : "কিশোর + ষ্ণ",
+    "mcq1" : "কিশোর + ষ্ণ",
+    "mcq2" : "কৈশো + র",
+    "mcq3" : " কৈ + শোর",
+    "mcq4" : "কে + শোর",
+    "question" : "19. কৈশোর - শব্দের প্রকৃতি ও প্রত্যয় কোনটি?"
+  },
+  "-LLel1VXFMGelJcCLNpD" : {
+    "ans" : "drama",
+    "mcq1" : "poetry",
+    "mcq2" : "drama",
+    "mcq3" : "novels",
+    "mcq4" : "films",
+    "question" : "20. Shackespeare is known mostly for his---"
+  },
+  "-LLel7W1gMwaKewILYAI" : {
+    "ans" : "moon",
+    "mcq1" : "anger",
+    "mcq2" : "time",
+    "mcq3" : "moon",
+    "mcq4" : "none",
+    "question" : "21. Which of the noun is used in the feminine form ?"
+  },
+  "-LLelCruFEbMR8fzBt9X" : {
+    "ans" : " Thoroughly",
+    "mcq1" : "whole heartely",
+    "mcq2" : "Not at all",
+    "mcq3" : "Brove",
+    "mcq4" : " Thoroughly",
+    "question" : "22. 'out and out' means."
+  },
+  "-LLelJcZW5x_wS5xJqCm" : {
+    "ans" : " has already arrived",
+    "mcq1" : " have already arrived",
+    "mcq2" : " has already arrived",
+    "mcq3" : "  already arrive",
+    "mcq4" : " already has been arriving",
+    "question" : "23. The train _____ from Rangpur."
+  },
+  "-LLelQ7Xkd8_Ie-_tuwp" : {
+    "ans" : " worthless man",
+    "mcq1" : "  respected person",
+    "mcq2" : " worthless man",
+    "mcq3" : " gentleman",
+    "mcq4" : " noted peson",
+    "question" : "24. 'Man of straw' means____"
+  },
+  "-LLelWMWXOFfatfd4vx9" : {
+    "ans" : "thin",
+    "mcq1" : "careful",
+    "mcq2" : "dangerous",
+    "mcq3" : "vital",
+    "mcq4" : "thin",
+    "question" : "25. Find out the correct synonym of 'tenuous'"
+  },
+  "-LLelew54gFeNmmLmzo_" : {
+    "ans" : " clear avidence",
+    "mcq1" : " clear avidence",
+    "mcq2" : "building material",
+    "mcq3" : "a cement mixer",
+    "mcq4" : "something to cover a path",
+    "question" : "26. If we want concrete proof , we are lokking for ___"
+  },
+  "-LLelngEDTeIWD-mtfpo" : {
+    "ans" : "  The padma is the longest river in bangladesh",
+    "mcq1" : "The padma is longest river in bangladesh",
+    "mcq2" : "  The padma is longest river in the Bangldesh",
+    "mcq3" : "  padma is longest river in Bangladesh",
+    "mcq4" : "  The padma is the longest river in bangladesh",
+    "question" : "27. The correct sentence of the following ;"
+  },
+  "-LLelvloiVqFo8fkk1SE" : {
+    "ans" : "in",
+    "mcq1" : "for",
+    "mcq2" : "at",
+    "mcq3" : "with",
+    "mcq4" : "in",
+    "question" : "28. Nine men were concerned ____ the plot."
+  },
+  "-LLem41gMPgsr_ONwlBm" : {
+    "ans" : " Holy place",
+    "mcq1" : " New country",
+    "mcq2" : " Holy place",
+    "mcq3" : "Bazar",
+    "mcq4" : "Mosque",
+    "question" : "29. A 'pligrim' is a person who undertakes a journey to a____"
+  },
+  "-LLemDTpi1urzKYjhqoH" : {
+    "ans" : "a",
+    "mcq1" : "a",
+    "mcq2" : "an",
+    "mcq3" : "the",
+    "mcq4" : "none of them",
+    "question" : "30. He lives ___ comfortable life."
+  },
+  "-LLemMBgin2lCdS05yAV" : {
+    "ans" : "A shop is going to be opened by him",
+    "mcq1" : " He is being gone to open a shop",
+    "mcq2" : "  A shop is being gone opened by him",
+    "mcq3" : "  A shop will be opened by him",
+    "mcq4" : "A shop is going to be opened by him",
+    "question" : "32. Identify the correct passive form of - 'He is going to open a shop' ."
+  },
+  "-LLemSp_bSzZm1sgRZJT" : {
+    "ans" : "noun",
+    "mcq1" : "noun",
+    "mcq2" : "adverb",
+    "mcq3" : "adjective",
+    "mcq4" : "gerund",
+    "question" : "32. The world ' Gravity' is ___"
+  },
+  "-LLemZqhHbvoInQd6rWQ" : {
+    "ans" : " jonathan swift",
+    "mcq1" : "william wordsworth",
+    "mcq2" : " jonathan swift",
+    "mcq3" : " R.L stevenson",
+    "mcq4" : " Thomas hardy",
+    "question" : "33. 'A voyega to Lilliput' is written by -"
+  },
+  "-LLen3PkVpuj1cBS2_tW" : {
+    "ans" : "one's",
+    "mcq1" : "the",
+    "mcq2" : "his",
+    "mcq3" : "her",
+    "mcq4" : "one's",
+    "question" : "34. One should be careful about __ duty ."
+  },
+  "-LLenjfnirhnyAsI5o7r" : {
+    "ans" : "Farida told her mother that she would go to bed then",
+    "mcq1" : "Farida told her mother that she would go to bed then",
+    "mcq2" : "Farida told her mother that she will go to bed now",
+    "mcq3" : "Farida told her mother that she should go to bed",
+    "mcq4" : "Farida told her mother that she will go to bed",
+    "question" : "35. The indirect from of the sentence - Farida said to her mother , \" I shall go to bed now \" is ____ "
+  },
+  "-LLeoATlaVREmDgHDtf3" : {
+    "ans" : "was cooking",
+    "mcq1" : "cook",
+    "mcq2" : "was cooking",
+    "mcq3" : "would cooking",
+    "mcq4" : " had cooking",
+    "question" : "36. Nasima arrived while I __ the dinner ."
+  },
+  "-LLeoHHdYN5SrSYOq5pZ" : {
+    "ans" : "show",
+    "mcq1" : "to show",
+    "mcq2" : "showing",
+    "mcq3" : "show",
+    "mcq4" : "showed",
+    "question" : "37. The invigilator made us __ our identity card at the test center ."
+  },
+  "-LLeoO19SXN0MceA6TfZ" : {
+    "ans" : "stronger",
+    "mcq1" : "strong",
+    "mcq2" : "stronger",
+    "mcq3" : "much",
+    "mcq4" : "strongest",
+    "question" : "38. The chain was ___ than we though ."
+  },
+  "-LLeogfghJ9e7Xfip4Hd" : {
+    "ans" : "Achievement",
+    "mcq1" : "Achievrnent",
+    "mcq2" : "Achievment",
+    "mcq3" : "Achevinent",
+    "mcq4" : "Achievement",
+    "question" : "39. which is the correct spelling ?"
+  },
+  "-LLeoqLzUs4GwhCe3l5b" : {
+    "ans" : "৫০",
+    "mcq1" : "২৫",
+    "mcq2" : "৫০",
+    "mcq3" : "১০০",
+    "mcq4" : "১০",
+    "question" : "40. ১-৯৯ পর্যন্ত সংখ্যাসমূহের গড় কত?"
+  },
+  "-LLep1rJv3aOUxyLSk2s" : {
+    "ans" : "৩",
+    "mcq1" : "৩",
+    "mcq2" : "২",
+    "mcq3" : "০",
+    "mcq4" : "-৩",
+    "question" : "41. ৬৫৫৮ এর সাথে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল একটি পূর্ণবর্গ সংখ্যা হবে?"
+  },
+  "-LLepENcGavex9v90jxT" : {
+    "ans" : "অসীম",
+    "mcq1" : "সসীম",
+    "mcq2" : "ফাঁকা",
+    "mcq3" : "সার্বিক",
+    "mcq4" : "অসীম",
+    "question" : "42. ৭ এর গুনিতকের সেট কোন ধরনের সেট ?"
+  },
+  "-LLepSrTPetZpYI4TMGk" : {
+    "ans" : " ১২%",
+    "mcq1" : "১৫%",
+    "mcq2" : "১৬%",
+    "mcq3" : " ৮%",
+    "mcq4" : " ১২%",
+    "question" : "43. শতকরা বার্ষিক কত হার সুদে কেনো মূলধন ২৫ বছরে সুদে - মূলে ৪ গুন হবে?"
+  },
+  "-LLep_-06-anWlY1oM5F" : {
+    "ans" : "৯",
+    "mcq1" : "৯",
+    "mcq2" : "১০",
+    "mcq3" : "৭",
+    "mcq4" : "৮",
+    "question" : "44. ৬০ মিটার দৈর্ঘ বিশিষ্ট একটি নলকে ৩:৭:১০ আনুপাতে টুকরা করা হয়েছে। ছোট টুকরাটি কত মিটার ?"
+  },
+  "-LLepekLIowr2f4vS4mq" : {
+    "ans" : " জ্যা",
+    "mcq1" : "চাপ",
+    "mcq2" : " জ্যা",
+    "mcq3" : "ব্যাস",
+    "mcq4" : "ব্যাসার্ধ",
+    "question" : "45. একটি বৃত্তের যেকোনো দুটি বিন্দুর সংযোজক রেখাকে বলে -"
+  },
+  "-LLepkP_Lk5oq0tNAKtT" : {
+    "ans" : "১২ সে.",
+    "mcq1" : "১৩ সে.",
+    "mcq2" : " ১৪ সে.",
+    "mcq3" : " ১১ সে.",
+    "mcq4" : "১২ সে.",
+    "question" : "46. রেল লাইনের পাশে একটি তালগাছ রয়েছে। ঘন্টায় ৪৫ কিমি. বেগে ধাবমান ১৫০ মিঃ লম্বা একটি ট্রেন কত সময়ে ঐ তালগাছটি অতিক্রম করবে?"
+  },
+  "-LLepq1Y_BJfq22dx41H" : {
+    "ans" : "কোনটিই নয়",
+    "mcq1" : "৬৪ বর্গমিটার",
+    "mcq2" : "৩২ বর্গমিটার",
+    "mcq3" : "১৬ বর্গমিটার",
+    "mcq4" : "কোনটিই নয়",
+    "question" : "47. একটি সমবাহু ত্রিভুজের একটি বাহু ১৬ মিটার। ত্রিভুজের ক্ষেত্রফল কত?"
+  },
+  "-LLepweHyuqGzxO5rL7d" : {
+    "ans" : "২৩ জন",
+    "mcq1" : "২৫ জন",
+    "mcq2" : "২৬ জন",
+    "mcq3" : "২৩ জন",
+    "mcq4" : "২৪ জন",
+    "question" : "48. কোন পরীক্ষায় ৫২% পরীক্ষার্থী ইংরেজিতে এবং ৪২% পরীক্ষর্থী গনিতে ফেল করল। যদি উভয় বিষয়ে ১৭% ফেল করে থাকে, তবে কতজন পরিক্ষার্থী উভয় বিষয়ে পাশ করেছে?"
+  },
+  "-LLeqWssKdza86WApU5J" : {
+    "ans" : "৩০",
+    "mcq1" : "২০",
+    "mcq2" : "১৫",
+    "mcq3" : "৩০",
+    "mcq4" : "৪০",
+    "question" : "49. ১৫ জনের কোনো কাজের অর্ধেক করতে ২০ দিন লাগে, কত দিনে ২০ জন লোক সম্পূর্ণ কাজটি শেষ করতে পারবে?"
+  },
+  "-LLeqblgXJ1T44oxb4gj" : {
+    "ans" : "১৮১",
+    "mcq1" : "১৮১",
+    "mcq2" : "২৪১",
+    "mcq3" : "৩৬১",
+    "mcq4" : "১২১",
+    "question" : "50. কোন ক্ষুদ্রতম সংখ্যা হতে ১ বিয়োগ করলে বিয়োগফল ৯,১২,১৫ দ্বারা নিঃশেষে বিভাজ্য হবে?"
+  },
+  "-LLeqm-rITTw40cnK5W2" : {
+    "ans" : " 40°",
+    "mcq1" : " 40°",
+    "mcq2" : "50°",
+    "mcq3" : " 20°",
+    "mcq4" : " 30°",
+    "question" : "51. সমকোণী ত্রিভুজের সমকোণের বিপিরীত একটি কোণ ৫০° হলে অপর কোণটি কত?"
+  },
+  "-LLeqsqDEdSFC7vwl48B" : {
+    "ans" : "৭৯২",
+    "mcq1" : "৭৯২",
+    "mcq2" : "২০০",
+    "mcq3" : "৭০০",
+    "mcq4" : "৬০০",
+    "question" : "52. ৬১২ টাকায় একটি ব্যাগ বিক্রয় করায় ১৫% ক্ষতি হয়। ব্যাগটি কত টাকায় বিক্রি করলে ১০% লাভ হবে ?"
+  },
+  "-LLerRa9DxZ4yy3SLHfm" : {
+    "ans" : "রাজশাহী বিভাগের উত্তর পশ্চিমাংশ",
+    "mcq1" : "সুন্দরবন",
+    "mcq2" : "রাজশাহী বিভাগের উত্তর পশ্চিমাংশ",
+    "mcq3" : "ময়নামতি ও লালমাই পাহাড়",
+    "mcq4" : "মধুপুর ও ভাওয়াল গড়",
+    "question" : "53. বরেন্দ্রভূমি নামে পরিচিত -"
+  },
+  "-LLerbzlhbtbcHazNZPl" : {
+    "ans" : "ফ্লাইট লেফটেন্যান্ট মতিউর রহমান",
+    "mcq1" : "ফ্লাইট লেফটেন্যান্ট মতিউর রহমান",
+    "mcq2" : "সিপাহী হামিদুর রহমান",
+    "mcq3" : " ক্যাপ্টেন মহিউদ্দীন জাহাঙ্গীর",
+    "mcq4" : " সিপাহী মোস্তফা কামাল",
+    "question" : "54. কোন বীরশ্রেষ্ঠর সমাধিস্থল পাকিস্থানে কারাচিতে ছিলো?"
+  },
+  "-LLerklCK_y2uvXJgFit" : {
+    "ans" : "জাপান",
+    "mcq1" : "ওমান",
+    "mcq2" : "জাপান",
+    "mcq3" : "সিরিয়া",
+    "mcq4" : "ভিয়েতনাম",
+    "question" : "55. দূর প্রাচ্যের দেশ -"
+  },
+  "-LLerrvmnhsv9PcsvrPw" : {
+    "ans" : "স্ফিগমোম্যানোমিটার",
+    "mcq1" : "স্টেথোস্কোপ",
+    "mcq2" : "কার্ডিওগ্রাফ",
+    "mcq3" : "ইকোকার্ডিওগ্রাফ",
+    "mcq4" : "স্ফিগমোম্যানোমিটার",
+    "question" : "56. মানব দেহের রক্তচাপ নির্ণায়ক যন্ত্র -"
+  },
+  "-LLes-8-6hw-Vzb2TUP-" : {
+    "ans" : "আব্রাহাম লিংকন",
+    "mcq1" : "উড্রো উইলসন",
+    "mcq2" : "আব্রাহাম লিংকন",
+    "mcq3" : "জর্জ ওয়াশিংটন",
+    "mcq4" : "ট্রুম্যান",
+    "question" : "57. গেটিসবার্গ শহরের সাথে মার্কিন কোন প্রেসিডেন্টের নাম জড়িত?"
+  },
+  "-LLes5YaRGWRgGl2Bb2i" : {
+    "ans" : "একটি ছত্রাক",
+    "mcq1" : "একটি ভাইরাস",
+    "mcq2" : "একটি ছত্রাক",
+    "mcq3" : "একটি ব্যাকটেরিয়া",
+    "mcq4" : "একটি ফার্ন",
+    "question" : "58. ইস্ট কি?"
+  },
+  "-LLesB9_UdwZDt9g6I7u" : {
+    "ans" : "১৭",
+    "mcq1" : " ১৫",
+    "mcq2" : "১৬",
+    "mcq3" : "১৭",
+    "mcq4" : "১৪",
+    "question" : "59. বাংলাদেশের সংবিধানের কোন অনুচ্ছেদে শিক্ষার জন্য সংবিধানের অঙ্গিকার ব্যক্ত আছে?"
+  },
+  "-LLesHaotN-g_1zN0quA" : {
+    "ans" : " ৮ ফাল্গুন",
+    "mcq1" : "৩১ পৌষ",
+    "mcq2" : " ২৯ মাঘ",
+    "mcq3" : "৯ মাঘ",
+    "mcq4" : " ৮ ফাল্গুন",
+    "question" : "60. ঔতিহাসিক একুশে ফেব্রুয়ারি বাংলা কত তারিখ ছিলো?"
+  },
+  "-LLesOQGNV3f1h9OAbUH" : {
+    "ans" : "মুঘল",
+    "mcq1" : "পাল",
+    "mcq2" : "মুঘল",
+    "mcq3" : "সেন",
+    "mcq4" : "ইংরেজ",
+    "question" : "61. কোন আমলে 'মসলিন কাপড়' ঢাকায় তৈরী হত?"
+  },
+  "-LLesXXcigkPPYwdQyQS" : {
+    "ans" : "১৭ এপ্রিল",
+    "mcq1" : "২৬ মার্চ",
+    "mcq2" : "১৭ এপ্রিল",
+    "mcq3" : " ১৬ ডিসেম্বর",
+    "mcq4" : "২৫ মার্চ",
+    "question" : "62. স্বাধীনতা যুদ্ধ কালে বাংলাদেশের অস্থায়ী সরকার কোন তারিখে গঠিত?"
+  },
+  "-LLeseRcPYscrpnp0rdI" : {
+    "ans" : "উথান্ট",
+    "mcq1" : "উথান্ট",
+    "mcq2" : "কফি আনান",
+    "mcq3" : "কুর্টওয়ার্ল্ড হেইম",
+    "mcq4" : "দ্যাগ হ্যামারশোল্ড",
+    "question" : "63. বাংলাদেশের মুক্তিযুদ্ধের সময় জাতিসংঘের মহাসচিব ছিলেন -"
+  },
+  "-LLeu7I1jngl9UTxQnVV" : {
+    "ans" : "অ্যাসকরবিক এসিড",
+    "mcq1" : "অ্যাসকরবিক এসিড",
+    "mcq2" : "সাইট্রিক এসিড",
+    "mcq3" : "ফরমিক এসিড",
+    "mcq4" : "নাইট্রিক এসিড",
+    "question" : "64. ভিটামিন সি এর রাসায়নিক নাম কি?"
+  },
+  "-LLeuE67Z63T9qoLalo8" : {
+    "ans" : "২০১২",
+    "mcq1" : "২০১১",
+    "mcq2" : "২০১২",
+    "mcq3" : "২০১৩",
+    "mcq4" : "২০১৫",
+    "question" : "65. জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের ' অসমাপ্ত আত্মজীবনী ' প্রকাশিত হয় কোন সনে?"
+  },
+  "-LLeuKckwr7dVioR2G3o" : {
+    "ans" : "শের শাহ ",
+    "mcq1" : "শের শাহ ",
+    "mcq2" : "মুহাম্মদ বিন তুঘলক",
+    "mcq3" : "ইলতুতমিশ",
+    "mcq4" : "লর্ড কর্নওয়ালিস",
+    "question" : "66. ভারতের প্রথম মুদ্রা প্রবর্তন করেন -"
+  },
+  "-LLeuSfwzmKfh44WVkPR" : {
+    "ans" : "জয়নুল আবেদীন",
+    "mcq1" : "জয়নুল আবেদীন",
+    "mcq2" : "হাসেম খান",
+    "mcq3" : "রফিকুন্নবী",
+    "mcq4" : "কামরুল হাসান",
+    "question" : "67. ১৯৪৩ সালের দুর্ভিক্ষের উপর ছবি এঁকে বিখ্যাত হন কোন শিল্পী?"
+  },
+  "-LLeuZieHlhkgq0fDHrb" : {
+    "ans" : "মালদ্বীপ",
+    "mcq1" : " ভুটান",
+    "mcq2" : "শ্রীলঙ্কা",
+    "mcq3" : "মালদ্বীপ",
+    "mcq4" : "নেপাল",
+    "question" : "68. জনসংখ্যা ও আয়তনের ভিত্তিতে সার্কভুক্ত কোন দেশটি সবচেয়ে ছোট?"
+  },
+  "-LLeui9FvPhCS-4KDepd" : {
+    "ans" : "ROM",
+    "mcq1" : " সফটওয়্যার",
+    "mcq2" : "RAM",
+    "mcq3" : "ROM",
+    "mcq4" : "হার্ডওয়্যার",
+    "question" : "69. কম্পিউটারের স্থায়ী স্মৃতিশক্তিকে বলে -"
+  },
+  "-LLeuuEcy2cz1fq9VFWN" : {
+    "ans" : "চন্ডীদাস",
+    "mcq1" : "রবীন্দ্রনাথ ঠাকুর",
+    "mcq2" : "কাজী নজরুল ইসলাম",
+    "mcq3" : " শরৎচন্দ্র চট্টোপাধ্যায়",
+    "mcq4" : "চন্ডীদাস",
+    "question" : "70. \" সবার উপরে মানুষ সত্য তাহার উপরে নাই\" - উক্তিটি কার?"
+  },
+  "-LLev0BQr6N7JUOAHdM_" : {
+    "ans" : "অক্সিজেন",
+    "mcq1" : "নাইট্রোজেন",
+    "mcq2" : "অক্সিজেন",
+    "mcq3" : "CO2",
+    "mcq4" : "হাইড্রোজেন",
+    "question" : "71. নিচের কোনটি গ্রীনহাউজ গ্যাস?"
+  },
+  "-LLev8j-lcdD11D7CWIE" : {
+    "ans" : " বীর উত্তম",
+    "mcq1" : " বীর উত্তম",
+    "mcq2" : " বীর প্রতীক",
+    "mcq3" : "বীর বিক্রম",
+    "mcq4" : "বীরশ্রেষ্ঠ",
+    "question" : "72. বাংলাদেশের বীরত্বসূচক উপাধিগুলোর মধ্যে কোনটির স্থান মর্যাদার দিক থেকে দ্বিতীয়?"
+  }
+}
