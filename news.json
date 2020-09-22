@@ -1,0 +1,53 @@
+{
+  "status": true,
+  "category_list": [
+    {
+      "tapTitle": "Bangla News",
+      "newsData": [
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+         
+        },
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+        },
+      ]
+    },
+{
+      "tapTitle": "English News",
+      "newsData": [
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+         
+        },
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+        },
+      ]
+    },
+{
+      "tapTitle": "English News",
+      "newsData": [
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+         
+        },
+        {
+          "newsName": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
+          "newsImage": আমাদের অর্থনীতি
+          "newsUrl": "http://amaderorthoneeti.com/new/"
+        },
+      ]
+    }
+]
+}
