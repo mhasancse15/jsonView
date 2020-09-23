@@ -1,0 +1,50 @@
+{
+  "status": true,
+  "video_category_list": [
+    {
+      "tapTitle": "IPLT20",
+      "videoData": [
+			{
+              "videoid": "eN6AYHAT8UM",
+              "videotitle": "Yaad Piya Ki",
+              "videoduration": "13:04:20"
+    }
+	  
+      
+      ]
+    },
+{
+      "tapTitle": "Bangladesh",
+      "videoData": [
+	  	{
+              "videoid": "eN6AYHAT8UM",
+              "videotitle": "Yaad Piya Ki",
+              "videoduration": "13:04:20"
+    }
+        
+      ]
+    },
+	{
+      "tapTitle": "Cricket News",
+      "videoData": [
+	  	{
+              "videoid": "eN6AYHAT8UM",
+              "videotitle": "Yaad Piya Ki",
+              "videoduration": "13:04:20"
+    }
+        
+      ]
+    },
+{
+      "tapTitle": "Funny Cricket",
+      "videoData": [
+	  	{
+              "videoid": "eN6AYHAT8UM",
+              "videotitle": "Yaad Piya Ki",
+              "videoduration": "13:04:20"
+    }
+        
+      ]
+    }
+]
+}
