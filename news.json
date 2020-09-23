@@ -70,15 +70,44 @@
       "tapTitle": "English News",
       "newsData": [
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
-         
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/bangladeshtoday.png",
+          "newsName": "The Bangladesh Today",
+          "newsUrl": "https://thebangladeshtoday.com/"
         },
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/dailyobserver.png",
+          "newsName": "Daily Observer",
+          "newsUrl": "https://www.observerbd.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/dailystar.png",
+          "newsName": "The Daily Star",
+          "newsUrl": "https://www.thedailystar.net/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/dailysun.png",
+          "newsName": " Daily Sun",
+          "newsUrl": "https://www.daily-sun.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/dhakatribune.png",
+          "newsName": "Dhaka Tribune",
+          "newsUrl": "https://www.dhakatribune.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/goodmorning.png",
+          "newsName": "The Good Morning",
+          "newsUrl": "https://thegoodmorning.net/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/independent.png",
+          "newsName": "The Independent",
+          "newsUrl": "http://m.theindependentbd.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/newstoday.png",
+          "newsName": "News Today",
+          "newsUrl": "https://www.newstoday.com.bd/"
         }
       ]
     },
