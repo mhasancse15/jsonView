@@ -2,20 +2,20 @@
    "status":true,
    "data":[
       {
-         "title":"Live Scrol",
-         "url":"https://www.cricbuzz.com/cricket-schedule/upcoming-series/international"
+         "title":"Live Score",
+         "url":"https://www.cricbuzz.com/cricket-match/live-scores"
       },
       {
-         "title":"Live Scrol",
-         "url":"https://www.cricbuzz.com/cricket-schedule/upcoming-series/international"
+         "title":"Schedule",
+         "url":"https://www.cricbuzz.com/cricket-schedule/upcoming-series/all"
       },
       {
-         "title":"Live Scrol",
-         "url":"https://www.cricbuzz.com/cricket-schedule/upcoming-series/international"
+         "title":"News",
+         "url":"https://www.cricbuzz.com/cricket-news/latest-news"
       },
       {
-         "title":"Live Scrol",
-         "url":""
+         "title":"Football",
+         "url":"https://www.goal.com/en-in/live-scores"
       }
    ]
 }
