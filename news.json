@@ -5,15 +5,64 @@
       "tapTitle": "Bangla News",
       "newsData": [
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
-         
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/prothom.png",
+          "newsName": "প্রথম  আলো",
+          "newsUrl": "https://www.prothomalo.com/sports"
         },
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/noyadiganto.png",
+          "newsName": "দৈনিক নয়াদিগন্ত",
+          "newsUrl": "https://www.dailynayadiganta.com/sports/11"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amadersomoy.png",
+          "newsName": "আমাদের সময়.কম",
+          "newsUrl": "https://www.amadershomoy.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/bangladeshprotidin.png",
+          "newsName": "বাংলাদেশ প্রতিদিন",
+          "newsUrl": "https://www.bd-pratidin.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/dinkal.png",
+          "newsName": "দৈনিক দিনকাল",
+          "newsUrl": "https://www.dainikdinkal.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/gonokontho.png",
+          "newsName": " দৈনিক গণকন্ঠ",
+          "newsUrl": "https://www.gonokantho.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/iftefak.png",
+          "newsName": "দৈনিক ইত্তেফাক",
+          "newsUrl": "https://www.ittefaq.com.bd/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/inqilab.png",
+          "newsName": "দৈনিক ইনকিলাব",
+          "newsUrl": "https://www.dailyinqilab.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/jonokontho.png",
+          "newsName": "দৈনিক জনকন্ঠ",
+          "newsUrl": "https://www.dailyjanakantha.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/kalerkontho.png",
+          "newsName": "কালের কণ্ঠ",
+          "newsUrl": "https://www.kalerkantho.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/manobjomin.png",
+          "newsName": "দৈনিক মানবজমিন",
+          "newsUrl": "https://mzamin.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/somokal.png",
+          "newsName": "দৈনিক সমকাল",
+          "newsUrl": "https://samakal.com/"
         }
       ]
     },
