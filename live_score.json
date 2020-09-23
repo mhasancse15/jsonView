@@ -6,8 +6,16 @@
          "url":"https://www.cricbuzz.com/cricket-match/live-scores"
       },
       {
+         "title":"Result",
+         "url":"https://www.cricbuzz.com/cricket-match/live-scores/recent-matches"
+      },
+      {
          "title":"Schedule",
          "url":"https://www.cricbuzz.com/cricket-schedule/upcoming-series/all"
+      },
+      {
+         "title":"Series",
+         "url":"https://www.cricbuzz.com/cricket-schedule/series"
       },
       {
          "title":"News",
@@ -15,7 +23,7 @@
       },
       {
          "title":"Football",
-         "url":"https://www.goal.com/en-in/live-scores"
+         "url":"https://www.whoscored.com/LiveScores"
       }
    ]
 }
