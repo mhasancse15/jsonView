@@ -112,18 +112,58 @@
       ]
     },
 {
-      "tapTitle": "English News",
+      "tapTitle": "Online News",
       "newsData": [
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/banglanewstf.png",
+          "newsName": "banglanews24",
+          "newsUrl": "https://www.banglanews24.com/"
          
         },
         {
-          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/bangla/amaderorthoniti.png",
-          "newsName": "আমাদের অর্থনীতি",
-          "newsUrl": "http://amaderorthoneeti.com/new/"
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/banglatribe.png",
+          "newsName": "Bangla Tribune",
+          "newsUrl": "https://www.banglatribune.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/bartabangla.png",
+          "newsName": "BartaBangla",
+          "newsUrl": "https://bartabangla.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/bbcbangla.png",
+          "newsName": "BBC News বাংলা",
+          "newsUrl": "https://www.bbc.com/bengali"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/bdlive.png",
+          "newsName": "bdnews24.com",
+          "newsUrl": "https://bangla.bdnews24.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/bdview.png",
+          "newsName": "BD Views",
+          "newsUrl": "http://www.bdviews.net/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/dhakatimes.png",
+          "newsName": "DhakaTimes",
+          "newsUrl": "https://www.dhakatimes24.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/online/jagonews.png",
+          "newsName": "Jagonews24",
+          "newsUrl": "https://www.jagonews24.com/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/newstoday.png",
+          "newsName": "News Today ",
+          "newsUrl": "https://www.newstoday.com.bd/"
+        },
+        {
+          "newsImage": "https://raw.githubusercontent.com/mhasancse15/jsonView/master/english/economist.png",
+          "newsName": "The Economist",
+          "newsUrl": "https://www.economist.com/"
         }
       ]
     }
