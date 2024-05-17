@@ -1,0 +1,144 @@
+{
+  "status": 200,
+  "message": "Request success",
+  "data": [
+    {
+      "id": 101,
+      "name": "Programming Language C",
+      "image": "https://picsum.photos/id/1/300/300",
+      "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+    },
+    {
+      "id": 102,
+      "name": "The Lord of the Rings",
+      "image": "https://picsum.photos/id/2/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings"
+    },
+    {
+      "id": 103,
+      "name": "Pride and Prejudice",
+      "image": "https://picsum.photos/id/3/300/300",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "id": 104,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "image": "https://picsum.photos/id/4/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"
+    },
+    {
+      "id": 105,
+      "name": "The Great Gatsby",
+      "image": "https://picsum.photos/id/5/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "id": 106,
+      "name": "One Hundred Years of Solitude",
+      "image": "https://picsum.photos/id/6/300/300",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+    },
+    {
+      "id": 107,
+      "name": "Moby Dick",
+      "image": "https://picsum.photos/id/7/300/300",
+      "url": "https://en.wikipedia.org/wiki/Moby_Dick"
+    },
+    {
+      "id": 108,
+      "name": "Hamlet",
+      "image": "https://picsum.photos/id/8/300/300",
+      "url": "https://en.wikipedia.org/wiki/Hamlet"
+    },
+    {
+      "id": 109,
+      "name": "Crime and Punishment",
+      "image": "https://picsum.photos/id/9/300/300",
+      "url": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+    },
+    {
+      "id": 110,
+      "name": "War and Peace",
+      "image": "https://picsum.photos/id/10/300/300",
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+    },
+    {
+      "id": 103,
+      "name": "Pride and Prejudice",
+      "image": "https://picsum.photos/id/11/300/300",
+      "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+    },
+    {
+      "id": 104,
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "image": "https://picsum.photos/id/12/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy"
+    },
+    {
+      "id": 105,
+      "name": "The Great Gatsby",
+      "image": "https://picsum.photos/id/13/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+    },
+    {
+      "id": 106,
+      "name": "One Hundred Years of Solitude",
+      "image": "https://picsum.photos/id/14/300/300",
+      "url": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude"
+    },
+    {
+      "id": 107,
+      "name": "Moby Dick",
+      "image": "https://picsum.photos/id/15/300/300",
+      "url": "https://en.wikipedia.org/wiki/Moby_Dick"
+    },
+    {
+      "id": 108,
+      "name": "Hamlet",
+      "image": "https://picsum.photos/id/16/300/300",
+      "url": "https://en.wikipedia.org/wiki/Hamlet"
+    },
+    {
+      "id": 109,
+      "name": "Crime and Punishment",
+      "image": "https://picsum.photos/id/17/300/300",
+      "url": "https://en.wikipedia.org/wiki/Crime_and_Punishment"
+    },
+    {
+      "id": 110,
+      "name": "War and Peace",
+      "image": "https://picsum.photos/id/18/300/300",
+      "url": "https://en.wikipedia.org/wiki/War_and_Peace"
+    },
+    {
+      "id": 111,
+      "name": "Frankenstein",
+      "image": "https://picsum.photos/id/19/300/300",
+      "url": "https://en.wikipedia.org/wiki/Frankenstein"
+    },
+    {
+      "id": 112,
+      "name": "The Adventures of Sherlock Holmes",
+      "image": "https://picsum.photos/id/21/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes"
+    },
+    {
+      "id": 113,
+      "name": "The Odyssey",
+      "image": "https://picsum.photos/id/22/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Odyssey"
+    },
+    {
+      "id": 114,
+      "name": "The Adventures of Huckleberry Finn",
+      "image": "https://picsum.photos/id/23/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Huckleberry_Finn"
+    },
+    {
+      "id": 115,
+      "name": "The Catcher in the Rye",
+      "image": "https://picsum.photos/id/24/300/300",
+      "url": "https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye"
+    }
+  ]
+}
